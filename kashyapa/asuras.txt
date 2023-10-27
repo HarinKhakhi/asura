@@ -1,0 +1,1 @@
+/Users/csuftitan/Downloads/asura/asura/test.asura /Users/csuftitan/.oh-my-zsh/custom/plugins/example/asura.py 
